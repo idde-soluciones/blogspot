@@ -9,15 +9,15 @@ div.jumbotron.carousel-hero {
 }
 
 div.jumbotron.hero-nature {
-  background-image: url('../../assets/img/hero2.png');
+  background-image: url('../img/hero2.png');
 }
 
 div.jumbotron.hero-photography {
-  background-image: url('../../assets/img/hero3.png');
+  background-image: url('../img/hero3.jpg');
 }
 
 div.jumbotron.hero-technology {
-  background-image: url('../../assets/img/hero4.jpg');
+  background-image: url('../img/hero4.jpg');
 }
 
 h1.hero-title, h2.hero-title, h3.hero-title {
